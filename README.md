@@ -1,2 +1,2 @@
 # Python-Reference
-This contains a python notebook which will keep small notes of the programming syntax used in Python. There will be updates made to this notebook periodically. 
+This contains a python notebook for referencing syntax and concepts of Python used in my projects or online coding websites. There will be updates made to this notebook periodically.
